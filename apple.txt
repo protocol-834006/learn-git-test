@@ -1,5 +1,5 @@
 This is the apple file.
 This is master branch modification.
-This is the modification in issue2
+Conflict in issue1.
 This is another modification in issue2.
 merging to issue1
