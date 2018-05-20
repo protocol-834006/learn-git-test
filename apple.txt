@@ -1,4 +1,2 @@
 This is the apple file.
 This is master branch modification.
-This is issue2 modification.
-this is going to merge with issue1.
